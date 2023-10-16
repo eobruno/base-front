@@ -1,4 +1,4 @@
-package com.basefront;
+package com.eobruno.basefront;
 
 import android.os.Build;
 import android.os.Bundle;
